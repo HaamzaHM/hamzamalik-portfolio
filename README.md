@@ -3,17 +3,14 @@
 <html lang="en" dir="ltr">
 
 <head>
-  <meta charset="utf-8">
-  <title>Hamza Malik - A web Designer</title>
-
+  
 </head>
 
 <body>
-  <div class="top-container">
-    <img class="top-cloud" src="images/cloud.png" alt="Cloud-image">
+  <div>
     <h1>I'm Hamza</h1>
     <h2><b>a <span class="pro">pro</span>grammer.</b></h2>
-    <img class="bottom-cloud" src="images/cloud.png" alt="Cloud-image">
+    
 
     <img src="images/mountain.png" alt="mountain-image">
 
