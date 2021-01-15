@@ -8,11 +8,10 @@
 
 <body>
   <div>
-    <h1>I'm Hamza</h1>
-    <h2><b>a <span class="pro">pro</span>grammer.</b></h2>
+  
     
 
-    <img src="images/mountain.png" alt="mountain-image">
+  
 
   </div>
   <div class="middle-container">
