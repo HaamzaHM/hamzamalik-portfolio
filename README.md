@@ -7,7 +7,7 @@
 </head>
 
 <body>
-     <h1><a href="https://haamzahm.github.io/hamzamalik/">Website link</a></h1>
+     <h1><a href="https://haamzahm.github.io/hamzamalik/">live Website link</a></h1>
   <div class="middle-container">
     <div class="profile">
       <img width="200px" height="auto" style="padding-top: 20px;" src="images/pic.png" alt="mypic">
